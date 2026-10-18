@@ -1,0 +1,20 @@
+# Binaries
+xcc
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Assembly output
+*.s
+*.asm
+
+# macOS
+.DS_Store
+*.dSYM/
+
+# Temporary / test outputs
+/tests/tmp*
+/tests/*.tmp
